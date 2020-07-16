@@ -1,1 +1,3 @@
-# forecasting_exercise
+# Forecasting Exercise
+
+Trying out forecasting models, a work in progress...
